@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\ce8f64aad3522f5cfdf5596445813ba24dea39a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\AtenWorks\ATen\SDKDemo\app\build\intermediates\pre-dexed\debug\classes_21faf53e0c4b8fc39520340803f96f78a72939ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\1668573103ac8bd9f364e296ae743ddb5cd9e636\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\AtenWorks\ATen\SDKDemo\app\build\intermediates\pre-dexed\debug\classes_281401d8d54c0f5a1335dae68ecd66af1cabfa4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\140965f9b2e1cc4b579992230671e9ab8c9329a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\AtenWorks\ATen\SDKDemo\app\build\intermediates\pre-dexed\debug\classes_811f625962bd5ec104ae581ed74d9c093fd5296e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\AtenWorks\ATen\SDKDemo\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_6c2a284fdd61d0d8ac24aa3991d9cfbc35ef85c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\140965f9b2e1cc4b579992230671e9ab8c9329a9\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\AtenWorks\ATen\SDKDemo\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_b56c3ba1903a2a4eb07915a363480270b97202e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\4c4797f19a82d78caefb7475ead2b2692b9e7f69\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\AtenWorks\ATen\SDKDemo\app\build\intermediates\pre-dexed\debug\classes_92a748a47e28d0e8a37ddff940647a5c9ae04227.jar" />
+    </item>
+
+</items>
